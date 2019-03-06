@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/oschwald/maxminddb-golang"
+	"github.com/rowland/maxminddb-golang"
 )
 
 // The City struct corresponds to the data in the GeoIP2/GeoLite2 City
